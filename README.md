@@ -8,6 +8,6 @@ Step 2_knowledge_graphml_node2vec: it use node2vec to get node embeddings. These
 
 Step 3_gnn_geometric_pytorch: GNN with geometric pytorch using node enbeddings from previous notebook plus node features and egde features (edge wieghts)  
 
-Step 4_clustering_using_node_embeddings: using KMeans, it uses the node embeddings from geometric pytorch but finally, I got cluster with lack of coherence. Due to it, I will attempt other approach in the next notebook where the cluster are formed by nodes of type customer and nodes of type Trans_Type.
+Step 4_clustering_using_node_embeddings: using KMeans, it uses the node embeddings from geometric pytorch.
 
-Step 5_bipartite_graph.
+
