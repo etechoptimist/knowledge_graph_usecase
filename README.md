@@ -11,3 +11,9 @@ Step 3_gnn_geometric_pytorch: GNN with geometric pytorch using node embeddings f
 Step 4_clustering_using_node_embeddings: using KMeans, it uses the node embeddings from geometric pytorch to cluser them and get the expected market segmentation.
 
 
+## Connect with me:
+[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist)
+
+---
+Explore more articles on [Medium](https://medium.com/@etechoptimist) and follow my GitHub for AI projects.
+
